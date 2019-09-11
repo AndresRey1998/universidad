@@ -1,0 +1,128 @@
+ Sesion:1 BECERRA RESLEN SIXTO ALBERTO .   Contradictor.
+ Sesion:1 BRITO PLANCHART RAMSES ALEJANDRO .   Contradictor.
+ Sesion:1 CAÑON MORENO BRAYAN ESTIVEN .   Contradictor.
+ Sesion:1 CORRALES MARTINEZ DANIEL MAURICIO .   Contradictor.
+ Sesion:1 MONTILVA DUARTE VICTOR HUGO .   Contradictor.
+ Sesion:1 MORENO PEREZ JOSE NICOLAS .   Contradictor.
+ Sesion:1 MUÑOZ MARTINEZ JUAN SEBASTIAN .   Contradictor.
+ Sesion:1 PEÑA NIVIA GABRIEL .   Contradictor.
+ Sesion:1 RIFFO TINEO BRIAN GERALD .   Contradictor.
+ Sesion:1 RIVERA RODRIGUEZ JUAN PABLO .   Contradictor.
+ Sesion:1 AMAYA TORRES LUIS ALEJANDRO .   Relator.
+ Sesion:1 MACÑAS LAMPREA RAFAEL ANTONIO .   Relator.
+ Sesion:1 PEDRAZA LEON VICTOR ANDRES .   Relator.
+ Sesion:1 RODRIGUEZ RICO JUAN FELIPE .   Relator.
+ Sesion:1 SEGURA HERRERA NICOLAS .   Relator.
+ Sesion:1 SORIANO MOSQUERA CESAR STEVEN .   Relator.
+ Sesion:1 URIBE PERILLA CAMILA .   Relator.
+ Sesion:1 VERA DIAZ JUAN PABLO .   Relator.
+ Sesion:1 MAHECHA MIRANDA ESTEFANIA .   Relator.
+ Sesion:1 VILLEGAS OYOLA ANDRES RAMIRO .   Relator.
+ Sesion:1 PORTILLA CASTAÑEDA SERGIO GEOVANY.   Relator.
+ Sesion:1 ALVAREZ MORANTES YURY XIMENA .   Protocolante.
+ Sesion:1 BELTRAN PENAGOS DANIEL .   Protocolante.
+ Sesion:1 BERNAL PABON JUAN CAMILO .   Protocolante.
+ Sesion:1 CAMARGO SERRANO LAURA VALENTINA .   Protocolante.
+ Sesion:1 CORREA VERA SANTIAGO .   Protocolante.
+ Sesion:1 CUCAITA CAMARGO GONZALO .   Protocolante.
+ Sesion:1 FORERO ARDILA HECTOR DAVID .   Protocolante.
+ Sesion:1 GANTIVA OCHOA JORGE ELIECER .   Protocolante.
+ Sesion:1 GOMEZ NARANJO DANUIL FERNANDO .   Protocolante.
+ Sesion:1 GONZALEZ CHACON CRISTHIAN IVAN .   Protocolante.
+ Sesion:1 GONZALEZ DAZA BRITER ANDRES .   Protocolante.
+ Sesion:2 AMAYA TORRES LUIS ALEJANDRO .   Contradictor.
+ Sesion:2 GANTIVA OCHOA JORGE ELIECER .   Contradictor.
+ Sesion:2 GOMEZ NARANJO DANUIL FERNANDO .   Contradictor.
+ Sesion:2 GONZALEZ DAZA BRITER ANDRES .   Contradictor.
+ Sesion:2 MACÑAS LAMPREA RAFAEL ANTONIO .   Contradictor.
+ Sesion:2 MORENO PEREZ JOSE NICOLAS .   Contradictor.
+ Sesion:2 MUÑOZ MARTINEZ JUAN SEBASTIAN .   Contradictor.
+ Sesion:2 PEDRAZA LEON VICTOR ANDRES .   Contradictor.
+ Sesion:2 RIFFO TINEO BRIAN GERALD .   Contradictor.
+ Sesion:2 RODRIGUEZ RICO JUAN FELIPE .   Contradictor.
+ Sesion:2 ALVAREZ MORANTES YURY XIMENA .   Relator.
+ Sesion:2 MONTILVA DUARTE VICTOR HUGO .   Relator.
+ Sesion:2 PEÑA NIVIA GABRIEL .   Relator.
+ Sesion:2 RIVERA RODRIGUEZ JUAN PABLO .   Relator.
+ Sesion:2 SEGURA HERRERA NICOLAS .   Relator.
+ Sesion:2 SORIANO MOSQUERA CESAR STEVEN .   Relator.
+ Sesion:2 URIBE PERILLA CAMILA .   Relator.
+ Sesion:2 VERA DIAZ JUAN PABLO .   Relator.
+ Sesion:2 MAHECHA MIRANDA ESTEFANIA .   Relator.
+ Sesion:2 VILLEGAS OYOLA ANDRES RAMIRO .   Relator.
+ Sesion:2 PORTILLA CASTAÑEDA SERGIO GEOVANY.   Relator.
+ Sesion:2 BECERRA RESLEN SIXTO ALBERTO .   Protocolante.
+ Sesion:2 BELTRAN PENAGOS DANIEL .   Protocolante.
+ Sesion:2 BERNAL PABON JUAN CAMILO .   Protocolante.
+ Sesion:2 BRITO PLANCHART RAMSES ALEJANDRO .   Protocolante.
+ Sesion:2 CAMARGO SERRANO LAURA VALENTINA .   Protocolante.
+ Sesion:2 CAÑON MORENO BRAYAN ESTIVEN .   Protocolante.
+ Sesion:2 CORRALES MARTINEZ DANIEL MAURICIO .   Protocolante.
+ Sesion:2 CORREA VERA SANTIAGO .   Protocolante.
+ Sesion:2 CUCAITA CAMARGO GONZALO .   Protocolante.
+ Sesion:2 FORERO ARDILA HECTOR DAVID .   Protocolante.
+ Sesion:2 GONZALEZ CHACON CRISTHIAN IVAN .   Protocolante.
+ Sesion:3 BECERRA RESLEN SIXTO ALBERTO .   Contradictor.
+ Sesion:3 BELTRAN PENAGOS DANIEL .   Contradictor.
+ Sesion:3 CAÑON MORENO BRAYAN ESTIVEN .   Contradictor.
+ Sesion:3 GONZALEZ CHACON CRISTHIAN IVAN .   Contradictor.
+ Sesion:3 GONZALEZ DAZA BRITER ANDRES .   Contradictor.
+ Sesion:3 MONTILVA DUARTE VICTOR HUGO .   Contradictor.
+ Sesion:3 MUÑOZ MARTINEZ JUAN SEBASTIAN .   Contradictor.
+ Sesion:3 PEDRAZA LEON VICTOR ANDRES .   Contradictor.
+ Sesion:3 PEÑA NIVIA GABRIEL .   Contradictor.
+ Sesion:3 RIFFO TINEO BRIAN GERALD .   Contradictor.
+ Sesion:3 AMAYA TORRES LUIS ALEJANDRO .   Relator.
+ Sesion:3 MORENO PEREZ JOSE NICOLAS .   Relator.
+ Sesion:3 RIVERA RODRIGUEZ JUAN PABLO .   Relator.
+ Sesion:3 RODRIGUEZ RICO JUAN FELIPE .   Relator.
+ Sesion:3 SEGURA HERRERA NICOLAS .   Relator.
+ Sesion:3 SORIANO MOSQUERA CESAR STEVEN .   Relator.
+ Sesion:3 URIBE PERILLA CAMILA .   Relator.
+ Sesion:3 VERA DIAZ JUAN PABLO .   Relator.
+ Sesion:3 MAHECHA MIRANDA ESTEFANIA .   Relator.
+ Sesion:3 VILLEGAS OYOLA ANDRES RAMIRO .   Relator.
+ Sesion:3 PORTILLA CASTAÑEDA SERGIO GEOVANY.   Relator.
+ Sesion:3 ALVAREZ MORANTES YURY XIMENA .   Protocolante.
+ Sesion:3 BERNAL PABON JUAN CAMILO .   Protocolante.
+ Sesion:3 BRITO PLANCHART RAMSES ALEJANDRO .   Protocolante.
+ Sesion:3 CAMARGO SERRANO LAURA VALENTINA .   Protocolante.
+ Sesion:3 CORRALES MARTINEZ DANIEL MAURICIO .   Protocolante.
+ Sesion:3 CORREA VERA SANTIAGO .   Protocolante.
+ Sesion:3 CUCAITA CAMARGO GONZALO .   Protocolante.
+ Sesion:3 FORERO ARDILA HECTOR DAVID .   Protocolante.
+ Sesion:3 GANTIVA OCHOA JORGE ELIECER .   Protocolante.
+ Sesion:3 GOMEZ NARANJO DANUIL FERNANDO .   Protocolante.
+ Sesion:3 MACÑAS LAMPREA RAFAEL ANTONIO .   Protocolante.
+ Sesion:4 BECERRA RESLEN SIXTO ALBERTO .   Contradictor.
+ Sesion:4 CUCAITA CAMARGO GONZALO .   Contradictor.
+ Sesion:4 GONZALEZ CHACON CRISTHIAN IVAN .   Contradictor.
+ Sesion:4 GONZALEZ DAZA BRITER ANDRES .   Contradictor.
+ Sesion:4 MONTILVA DUARTE VICTOR HUGO .   Contradictor.
+ Sesion:4 MUÑOZ MARTINEZ JUAN SEBASTIAN .   Contradictor.
+ Sesion:4 PEÑA NIVIA GABRIEL .   Contradictor.
+ Sesion:4 RIFFO TINEO BRIAN GERALD .   Contradictor.
+ Sesion:4 RODRIGUEZ RICO JUAN FELIPE .   Contradictor.
+ Sesion:4 SEGURA HERRERA NICOLAS .   Contradictor.
+ Sesion:4 ALVAREZ MORANTES YURY XIMENA .   Relator.
+ Sesion:4 MACÑAS LAMPREA RAFAEL ANTONIO .   Relator.
+ Sesion:4 MORENO PEREZ JOSE NICOLAS .   Relator.
+ Sesion:4 PEDRAZA LEON VICTOR ANDRES .   Relator.
+ Sesion:4 RIVERA RODRIGUEZ JUAN PABLO .   Relator.
+ Sesion:4 SORIANO MOSQUERA CESAR STEVEN .   Relator.
+ Sesion:4 URIBE PERILLA CAMILA .   Relator.
+ Sesion:4 VERA DIAZ JUAN PABLO .   Relator.
+ Sesion:4 MAHECHA MIRANDA ESTEFANIA .   Relator.
+ Sesion:4 VILLEGAS OYOLA ANDRES RAMIRO .   Relator.
+ Sesion:4 PORTILLA CASTAÑEDA SERGIO GEOVANY.   Relator.
+ Sesion:4 AMAYA TORRES LUIS ALEJANDRO .   Protocolante.
+ Sesion:4 BELTRAN PENAGOS DANIEL .   Protocolante.
+ Sesion:4 BERNAL PABON JUAN CAMILO .   Protocolante.
+ Sesion:4 BRITO PLANCHART RAMSES ALEJANDRO .   Protocolante.
+ Sesion:4 CAMARGO SERRANO LAURA VALENTINA .   Protocolante.
+ Sesion:4 CAÑON MORENO BRAYAN ESTIVEN .   Protocolante.
+ Sesion:4 CORRALES MARTINEZ DANIEL MAURICIO .   Protocolante.
+ Sesion:4 CORREA VERA SANTIAGO .   Protocolante.
+ Sesion:4 FORERO ARDILA HECTOR DAVID .   Protocolante.
+ Sesion:4 GANTIVA OCHOA JORGE ELIECER .   Protocolante.
+ Sesion:4 GOMEZ NARANJO DANUIL FERNANDO .   Protocolante.

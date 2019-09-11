@@ -1,0 +1,4 @@
+#Wed Sep 11 07:48:49 COT 2019
+grupos=Archivos/grupos.txt
+nombreCodigo=ReyMedinaMoyaseminario.java
+archivoProp=Archivos/propiedades.txt
