@@ -15,6 +15,7 @@ public class Archivo {
 		File f = new File("Archivos/grupos.txt");
 		try 
 		{
+			//test
 			FileWriter fw = new FileWriter(f,true);
 			PrintWriter pw = new PrintWriter(fw);
 			
